@@ -1,0 +1,10 @@
+name: imodels
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
