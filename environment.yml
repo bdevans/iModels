@@ -7,5 +7,6 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - widgetsnbextension
   - ipywidgets
   - jupyter_contrib_nbextensions
