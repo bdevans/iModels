@@ -5,9 +5,9 @@
 jupyter nbextension enable --py widgetsnbextension --sys-prefix 
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@^0.38.1
 
-jupyter labextension install @jupyterlab/git
-pip install jupyterlab-git
-jupyter serverextension enable --py jupyterlab_git
+#jupyter labextension install @jupyterlab/git
+#pip install jupyterlab-git
+#jupyter serverextension enable --py jupyterlab_git
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 jupyter trust *.ipynb
