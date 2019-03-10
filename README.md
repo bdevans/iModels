@@ -4,7 +4,7 @@ Interactive Models for Computational Neuroscience
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdevans/iModels/master?filepath=index.ipynb)
 
 Launch the JupyterLab interface:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdevans/iModels/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdevans/iModels/master?urlpath=lab/tree/index.ipynb)
 
 To run the notebooks locally with JupyterLab:
 ```
