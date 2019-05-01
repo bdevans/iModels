@@ -2,7 +2,8 @@
 #jupyter nbextension enable --py widgetsnbextension
 #jupyter nbextension enable python-markdown/main
 
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
+# https://ipywidgets.readthedocs.io/en/stable/user_install.html
+#jupyter nbextension enable --py widgetsnbextension --sys-prefix
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
 #jupyter labextension install @jupyterlab/git
