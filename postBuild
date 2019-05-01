@@ -3,7 +3,7 @@
 #jupyter nbextension enable python-markdown/main
 
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
-jupyter labextension install @jupyter-widgets/jupyterlab-manager@^0.37
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
 #jupyter labextension install @jupyterlab/git
 #pip install jupyterlab-git
