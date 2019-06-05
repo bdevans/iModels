@@ -6,6 +6,8 @@ Interactive Models for Computational Neuroscience
 Launch the JupyterLab interface:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdevans/iModels/master?urlpath=lab/tree/index.ipynb)
 
+If you have a Google account, you can try it with [Google Colab](http://colab.research.google.com/github/bdevans/iModels).
+
 For further details of the binder environment, refer to [repo2docker](https://github.com/jupyter/repo2docker) [environment files](https://github.com/jupyter/repo2docker/tree/master/repo2docker/buildpacks/conda). 
 
 To run the notebooks locally with JupyterLab:
